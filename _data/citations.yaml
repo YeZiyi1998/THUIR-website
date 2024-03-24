@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: improving legal case retrieval with brain signals
+  title: Improving Legal Case Retrieval with Brain Signals
+  authors:
+  - Ruizhe Zhang
+  - Qingyao Ai
+  - Ziyi Ye
+  - Yueyue Wu
+  - Xiaohui Xie
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.13242
+  date: '2024-03-20'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13291148673665173499&btnI=1&hl=en
 - id: evaluation ethics of llms in legal domain
   title: Evaluation Ethics of LLMs in Legal Domain
   authors:
