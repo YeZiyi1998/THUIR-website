@@ -41,6 +41,22 @@
   publisher: arXiv preprint arXiv:2404.01008
   date: '2024-04-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9741497275027325164&btnI=1&hl=en
+- id: 'aiming at the target: filter collaborative information for cross-domain recommendation'
+  title: 'Aiming at the Target: Filter Collaborative Information for Cross-Domain
+    Recommendation'
+  authors:
+  - Hanyu Li
+  - Weizhi Ma
+  - Peijie Sun
+  - Jiayu Li
+  - Cunxiang Yin
+  - Yancheng He
+  - Guoqiang Xu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2403.20296
+  date: '2024-03-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11113158598514835835&btnI=1&hl=en
 - id: capability-aware prompt reformulation learning for text-to-image generation
   title: Capability-aware Prompt Reformulation Learning for Text-to-Image Generation
   authors:
